@@ -8,8 +8,9 @@ namespace GradeBook
         public Book(string name)
         {
             grades = new List<double>();
-            this.name = name;
-            Console.WriteLine($" This is from the Static class: {this.name}");
+            //NAME IS FIELD AND name is parameter
+            Name = name;
+            Console.WriteLine($" This is from the Static class: {Name}");
         }
 
         public void AddGrade(double grade)
@@ -37,6 +38,6 @@ namespace GradeBook
 
         
         private List<double> grades;
-        private string name;
+        public string Name;
     }
 }
