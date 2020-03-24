@@ -1,0 +1,11 @@
+C:\Users\v-ramki\gradebook2\src\bin\Debug\netcoreapp3.1\src.exe
+C:\Users\v-ramki\gradebook2\src\bin\Debug\netcoreapp3.1\src.deps.json
+C:\Users\v-ramki\gradebook2\src\bin\Debug\netcoreapp3.1\src.runtimeconfig.json
+C:\Users\v-ramki\gradebook2\src\bin\Debug\netcoreapp3.1\src.runtimeconfig.dev.json
+C:\Users\v-ramki\gradebook2\src\bin\Debug\netcoreapp3.1\src.dll
+C:\Users\v-ramki\gradebook2\src\bin\Debug\netcoreapp3.1\src.pdb
+C:\Users\v-ramki\gradebook2\src\obj\Debug\netcoreapp3.1\src.csprojAssemblyReference.cache
+C:\Users\v-ramki\gradebook2\src\obj\Debug\netcoreapp3.1\src.AssemblyInfoInputs.cache
+C:\Users\v-ramki\gradebook2\src\obj\Debug\netcoreapp3.1\src.AssemblyInfo.cs
+C:\Users\v-ramki\gradebook2\src\obj\Debug\netcoreapp3.1\src.dll
+C:\Users\v-ramki\gradebook2\src\obj\Debug\netcoreapp3.1\src.pdb
